@@ -1,21 +1,25 @@
-Level 1
+#Level 1
 
 You see before yourself a long hallway with stairs at the end. There is nothing in the way.
 
 Tip: Call warrior.walk! to walk forward in the Player 'play_turn' method.
 
+```
  --------
 |@      >|
  --------
 
-  > = Stairs
-  @ = Chugach (20 HP)
+  > = Stairs 
+  @ = Chugach (20 HP) 
+```
 
 
-Warrior Abilities:
+##Warrior Abilities
 
-  warrior.walk!
+  `warrior.walk!`
     Move in the given direction (forward by default).
 
 
-When you're done editing player.rb, run the rubywarrior command again.
+When you're done editing player.rb, run the `rubywarrior` command again.
+
+* [Level 2](https://github.com/anchorageprogramming/rubywarrior/tree/master/level_2)
